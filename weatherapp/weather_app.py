@@ -48,25 +48,3 @@ if __name__ == '__main__':
 
     print(user_info)
 
-
-
-
-# import random
-
-# #chance_of_rain = random.randint(0, 100)
-# chance_of_rain = 100
-
-# if chance_of_rain == 0: 
-#     cloudy = input("Is it cloudy? (True/False) ") 
-
-#     if cloudy == True: 
-#         print("It is a cloudy day with no chance of rain.")
-#     else: 
-#         print("It is a sunny day with no chance of rain.")
-
-# elif chance_of_rain < 100: 
-#     print(f"there is a {chance_of_rain}% chance of rain.")
-
-# else: 
-#     print("it is certain to rain")
-

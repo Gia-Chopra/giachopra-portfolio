@@ -18,5 +18,5 @@ It allows users to **add, edit, and manage tasks** along with their statuses. Th
 ---
 
 ## Tech Stack
-- Python 3.x
+- Python 3
 - Console-based interface
